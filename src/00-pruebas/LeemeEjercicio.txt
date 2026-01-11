@@ -1,0 +1,21 @@
+Explicación del ejercicio (¿Qué debe hacer?)
+El objetivo es gestionar la logística de una empresa de mensajería:
+
+Asignación Inteligente: 
+Al presionar "Assign", debes repartir los paquetes "Unassigned" entre los repartidores (couriers).
+
+Regla 1: Cada repartidor debe recibir al menos un paquete si hay suficientes.
+
+Regla 2: No puedes exceder la capacidad máxima (maxPackages) de cada repartidor.
+
+Regla 3: Si sobran paquetes y nadie tiene espacio, esos paquetes pasan a una lista de "Tomorrow" con estado "Delayed".
+
+Gestión de Estados:
+
+Complete: Cambia el estado del paquete a "Completed".
+
+Delay: Saca el paquete de la lista del repartidor y lo mueve a la tabla de "Tomorrow".
+
+Visualización: Mostrar una tabla para hoy (repartidores y sus paquetes) y otra para mañana (paquetes retrasados).
+
+https://giphy.com/gifs/rVU1QvKMWfVfgF2hPX
