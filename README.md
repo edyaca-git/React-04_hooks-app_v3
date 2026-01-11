@@ -1,10 +1,6 @@
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-# React + TypeScript + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 Temas puntuales
 Está sección tiene por objetivo que aprendamos sobre diferentes técnicas para mejorar la experiencia de nuestros usuarios y la velocidad de nuestras aplicaciones.
 Puntualmente veremos:
